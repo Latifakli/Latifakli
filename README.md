@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**Latifakli/Latifakli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Latifa, Web Developer Specialized in Symfony.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After several years working in the administration ✍️, 
+I decided to move towards the profession of web developer, a universe that corresponds to my inspirations and my desires 😊.
+
+
+To start learning the ropes, there's nothing like an intensive five-month training at O'Clock. Throughout this training,
+I was able to acquire new notions and practices thanks to the pedagogical team 🤗 who provided me with the necessary tools to carry out my projects.
+
+Actually, 
+ - 🔭 I’m currently working on my portfolio
+ - 🌱 I’m currently learning React and Wordpress.
